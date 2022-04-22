@@ -7,3 +7,7 @@ The ".md" extension stands for mark down , which is basically a simple text form
 ## Subheader
 
 This is more text just to show the commit 
+
+## Local Development 
+
+1. Open index.html in your browser
